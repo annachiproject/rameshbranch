@@ -5,7 +5,7 @@ public class Ramesh143Crush
 	private String Ram_eshu = "boy";
 	private String Jolly = Thenmozhi_Devi + Ram_eshu;
 	private String Ann_Achi = "boy";
-	private String Ranga_Nayaki = "gitl";
+	private String Ranga_Nayaki = "girl";
 	private String Double_Jolly = Ann_Achi + Ranga_Nayaki;
 	}
 }
