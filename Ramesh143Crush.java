@@ -1,8 +1,11 @@
 public class Ramesh143Crush
 {
 	public static void main( String args[] ){
-	private String ThenmozhiDevi = "girl";
-	private String Rameshu = "boy";
-	private String Jolly = ThenmozhiDevi + Rameshu;
+	private String Thenmozhi_Devi = "girl";
+	private String Ram_eshu = "boy";
+	private String Jolly = Thenmozhi_Devi + Ram_eshu;
+	private String Ann_Achi = "boy";
+	private String Ranga_Nayaki = "gitl";
+	private String Double_Jolly = Ann_Achi + Ranga_Nayaki;
 	}
 }
